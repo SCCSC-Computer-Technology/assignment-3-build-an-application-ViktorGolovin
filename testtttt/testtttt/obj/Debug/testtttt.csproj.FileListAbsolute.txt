@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\testtttt\testtttt\bin\Debug\testtttt.exe.config
+C:\Users\vikto\source\repos\testtttt\testtttt\bin\Debug\testtttt.exe
+C:\Users\vikto\source\repos\testtttt\testtttt\bin\Debug\testtttt.pdb
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.csproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.Form1.resources
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.Properties.Resources.resources
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.exe
+C:\Users\vikto\source\repos\testtttt\testtttt\obj\Debug\testtttt.pdb
+C:\Users\vikto\source\repos\testtttt\testtttt\bin\Debug\States.accdb
