@@ -1,0 +1,27 @@
+Code review for Viktor Golovin:
+Anna Stefanacci
+
+Code Compilation and Warnings:
+
+- I saw that your program was unfinished. I will go based off that - from what you have submitted, I was unable to run the program. I got an error telling me - "system.invalidOperationException." This is because when you go to 'project' at the top > 'testtt properties' > 'build' on the left-hand side > and that 'prefer 32-bit' needs to be UNchecked. Hope that helps :) After I was able to run everything smoothly. 
+
+Readability and Documentation:
+
+- Your use of comments was great, very easy too read. 
+
+Repetitive Code and Dead Code:
+
+- There are no instances of dead code.
+- There was also limited repetitiveness (considering you were sorting several things). 
+
+Software Defects and Testing:
+
+- I had that one issue running the program, but after it was great.
+
+Appropriateness of Framework and Code Usage:
+
+- This program didn't exactly meet the requirements of the assignment, but overall the program is functioning and the database links (after that was unchecked). 
+
+Constructive Feedback:
+
+- I hadn't seen that specific way to sort tables before (lines 38, 43, etc.). The way I had been doing it before was extra steps so I liked the conciseness of your way. I also liked that you changed your form up a bit, I haven't seen anyone other than me and Alex do that. 
